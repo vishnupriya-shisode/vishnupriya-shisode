@@ -1,4 +1,5 @@
-# 👋 Hi there, I’m Vishnupriya Shisode!
+[![Hi Vishnupriya!](https://media.tenor.com/images/f9e6dfaec47a1a80dc6907ae9f814675/tenor.gif)](https://tenor.com/view/blob-cute-adorable-smiley-hi-gif-17031688)
+
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
 I thrive on challenges, late-night debugging wins, and the thrill of turning an idea into something real.
