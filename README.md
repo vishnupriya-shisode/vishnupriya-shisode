@@ -1,6 +1,4 @@
-Hey there!<img width="6" height="4" alt="image" src="https://github.com/user-attachments/assets/74b4076f-784d-49ae-b639-e3714aa7dabe" />
-
-
+Hey there!https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
 I thrive on challenges, late-night debugging wins, and the thrill of turning an idea into something real.
