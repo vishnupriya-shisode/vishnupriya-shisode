@@ -1,4 +1,4 @@
-👋🏼 Hi there its Vishnupriya!
+Hey there! <img src="https://github.com/.../blob.png" width="30">
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
 I thrive on challenges, late-night debugging wins, and the thrill of turning an idea into something real.
