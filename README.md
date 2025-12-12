@@ -1,4 +1,5 @@
-Hey there! <img src="https://private-user-images.githubusercontent.com/.../blobwave.png" width="28">
+Hey there! <img src="RAW-LINK-HERE" width="40">
+
 
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
