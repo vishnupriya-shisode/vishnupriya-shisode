@@ -1,4 +1,5 @@
-Hey there! <img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/7bfc2bcf-5a5e-41ec-843f-9ae59535a621" />
+Hey there!<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/74b4076f-784d-49ae-b639-e3714aa7dabe" />
+
 
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
