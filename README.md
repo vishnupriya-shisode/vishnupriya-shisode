@@ -1,4 +1,4 @@
-Hey there!<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/74b4076f-784d-49ae-b639-e3714aa7dabe" />
+Hey there!<img width="6" height="4" alt="image" src="https://github.com/user-attachments/assets/74b4076f-784d-49ae-b639-e3714aa7dabe" />
 
 
 
