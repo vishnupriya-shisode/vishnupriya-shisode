@@ -1,4 +1,5 @@
-Hey there! <img src="https://emoji.gg/assets/emoji/7333-wave-blob.png" width="25">
+Hey there! <img width="206" height="250" alt="image" src="https://github.com/user-attachments/assets/7bfc2bcf-5a5e-41ec-843f-9ae59535a621" />
+
 
 Welcome to my GitHub profile! I’m a Computer Science student with a love-hate relationship with coding — but hey, isn't that part of the journey?😅 
 I thrive on challenges, late-night debugging wins, and the thrill of turning an idea into something real.
