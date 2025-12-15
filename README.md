@@ -7,6 +7,7 @@ I like designing and building whatever I can get my hands on, and learning throu
 My main tech stack includes [React](https://react.dev), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (currently learning [TypeScript](https://www.typescriptlang.org)), and [Tailwind CSS](https://tailwindcss.com).
 
 My favourite tools are Procreate, Figma, and GoodNotes on my iPad.  
+
 For development, I switch between VS Code and Cursor.
 
 Right now, I’m focused on improving my problem-solving skills through LeetCode, learning DSA from scratch, and staying active on GitHub as I build my portfolio.
