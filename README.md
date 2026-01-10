@@ -10,12 +10,6 @@ My favourite tools are Procreate, Figma, and GoodNotes on my iPad.
 
 For development, I switch between VS Code and Cursor.
 
-Fun Facts:
-    I love cats 🐈
-    long walks are my daily reset 
-    The Holiday is my favourite movie
-    Hobbies: reading, home workouts, building things
-
     I love cats 🐈
     long walks are my daily reset 
     The Holiday is my favourite movie
