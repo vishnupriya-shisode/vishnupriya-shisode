@@ -10,8 +10,6 @@ My favourite tools are Procreate, Figma, and GoodNotes on my iPad.
 
 For development, I switch between VS Code and Cursor.
 
-Right now, I’m focused on improving my problem-solving skills through LeetCode, learning DSA from scratch, and staying active on GitHub as I build my portfolio.
-
 Fun Facts:
     I love cats 🐈
     long walks are my daily reset 
