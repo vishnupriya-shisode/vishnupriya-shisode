@@ -10,6 +10,11 @@ My favourite tools are Procreate, Figma, and GoodNotes on my iPad.
 
 For development, I switch between VS Code and Cursor.
 
+Currently learning and strengthening my frontend skills through Scrimba’s interactive courses or the FreeCodeCamp youtube channel.
+If you're learning too, here’s the platform I’ve been using:
+https://scrimba.com?via=u4339d38
+
+
 Fun Facts:
 
     I love cats 🐈
