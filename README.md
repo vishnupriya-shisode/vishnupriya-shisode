@@ -9,6 +9,7 @@ My main tech stack includes [React](https://react.dev), [JavaScript](https://dev
 My favourite tools are Procreate, Figma, and GoodNotes on my iPad.  
 
 For development, I switch between VS Code and Cursor.
+I am also re-learning java and loving it:))
 
 
 Fun Facts:
